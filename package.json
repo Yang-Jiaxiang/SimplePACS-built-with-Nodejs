@@ -1,0 +1,12 @@
+{
+  "name": "simplepacs-built-with-nodejs",
+  "version": "1.0.0",
+  "description": "Simple PACS(Picture Archiving and Communication System) built with Nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
